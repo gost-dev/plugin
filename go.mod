@@ -7,7 +7,7 @@ toolchain go1.21.2
 require (
 	github.com/go-gost/x v0.0.0-20231029022713-e8d5e719a434
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
